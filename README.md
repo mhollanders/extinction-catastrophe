@@ -1,0 +1,1 @@
+This repo contains the analysis to produce Figure 2 of the manuscript "Investigating the Causes of an Extinction Catastrophe: Controlling Introduced Predators Remains Essential for Conserving Australia’s Mammals" ([2026](https://doi.org/10.1093/biosci/biaf204)), published in *BioScience* by Woinarski et al. 
